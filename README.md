@@ -2,7 +2,7 @@
 
 ### Requirements
     PHP7.*
-    Composer installation into your maching
+    Composer installed into your maching
 
 
 #  Composer
