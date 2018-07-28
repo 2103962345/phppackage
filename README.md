@@ -15,6 +15,6 @@
     http://localhost/PhpComponent/?action=update
     http://localhost/PhpComponent/?action=delete
     
-##Author
+### Author
 
 [Mohammed Minuddin](https://moinshareidea.wordpress.com)
